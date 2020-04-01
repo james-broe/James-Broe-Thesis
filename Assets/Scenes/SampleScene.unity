@@ -151,32 +151,32 @@ PrefabInstance:
     - target: {fileID: -3955353439144410109, guid: fc3aad31f392195469e2e47ce1f069ad,
         type: 3}
       propertyPath: _corner1.x
-      value: 700
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -3955353439144410109, guid: fc3aad31f392195469e2e47ce1f069ad,
         type: 3}
       propertyPath: _corner1.y
-      value: 600
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -3955353439144410109, guid: fc3aad31f392195469e2e47ce1f069ad,
         type: 3}
       propertyPath: _corner1.z
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -3955353439144410109, guid: fc3aad31f392195469e2e47ce1f069ad,
         type: 3}
       propertyPath: _corner2.x
-      value: 1500
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: -3955353439144410109, guid: fc3aad31f392195469e2e47ce1f069ad,
         type: 3}
       propertyPath: _corner2.y
-      value: 1270
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: -3955353439144410109, guid: fc3aad31f392195469e2e47ce1f069ad,
         type: 3}
       propertyPath: _corner2.z
-      value: 600
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: -364223573239433514, guid: fc3aad31f392195469e2e47ce1f069ad,
         type: 3}
